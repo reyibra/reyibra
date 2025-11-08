@@ -6,6 +6,13 @@ on:
     - cron: '0 */6 * * *'
   workflow_dispatch:
 
+# ==========================================================
+#  INI PENAMBAHANNYA: Memberi izin pada workflow
+#  untuk menulis (push) hasil gambarnya ke repo
+# ==========================================================
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
