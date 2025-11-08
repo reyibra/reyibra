@@ -23,4 +23,4 @@ Selamat datang di profil saya.
   </a>
 </p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&color=FFFFFF&lines=Halo,+nama+saya+Reyvanzi+Ibrahim;Enthusiastic+about+data+scientist;and+AI+-+Machine+Learning...&center=true&width=500&height=50)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&color=FFFFFF&lines=Halo,+nama+saya+Reyvanzi+Ibrahim+Enthusiastic+about+data+scientist;and+AI+-+Machine+Learning...&center=true&width=500&height=50)
