@@ -28,7 +28,7 @@ Saat ini, saya sedang fokus penuh dalam 30-hari sprint untuk membangun portofoli
 
 Anda bisa mengikuti perjalanan saya di repositori berikut (sesuai rencana Hari-1 Anda):
 
-* [**ds_ai_project1**](https://github.com/reyibra/ds_ai_project1) - (Status: Hari 1-14)
+* [**telco-churn-analysis**](https://github.com/reyibra/telco-churn-analysis) - (Status: Hari 1-14)
 * [**ds_ai_project2**](https://github.com/reyibra/ds_ai_project2) - (Status: Hari 15-21)
 * [**ds_ai_project3**](https://github.com/reyibra/ds_ai_project3) - (Status: Hari 22-27)
 
