@@ -22,3 +22,5 @@ Selamat datang di profil saya.
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&color=FFFFFF&lines=Halo,+nama+saya+Reyvanzi+Ibrahim;Enthusiastic+about+data+scientist;and+AI+-+Machine+Learning...&center=true&width=500&height=50)
