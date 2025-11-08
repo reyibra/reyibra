@@ -1,13 +1,3 @@
-### 👋 Halo! Saya Reyvanzi Ibrahim
-
-Selamat datang di profil saya.
-
----
-
-### 📊 Statistik GitHub Saya
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reyibra&show_icons=true&theme=dark)
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&color=FFFFFF&lines=Halo!+Nama+saya+Reyvanzi+Ibrahim;Saya+tertarik+dengan+Data+Science;...dan+AI+-+Machine+Learning!&center=true&width=500&height=50" alt="Animasi Teks Ketik">
 </div>
