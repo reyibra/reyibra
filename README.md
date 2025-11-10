@@ -77,11 +77,3 @@ Ini adalah teknologi utama yang saya gunakan dan dalami untuk proyek-proyek saya
   </p>
 
 </div>
-
----
-
-### 🐍 Kontribusi Saya (Dibungkus dalam Game Ular!)
-
-<div align="center">
-  <img src="https://github.com/reyibra/reyibra/blob/output/github-contribution-grid-snake.svg" alt="Animasi Game Ular Kontribusi">
-</div>
