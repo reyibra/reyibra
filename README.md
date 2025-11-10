@@ -22,7 +22,7 @@
 
 Saat ini, saya sedang fokus penuh dalam 30-hari sprint untuk membangun portofolio Data Science & AI dari nol. Misi saya adalah menyelesaikan 3 proyek *end-to-end* untuk mendemonstrasikan kemampuan saya dalam:
 
-1.  **Project A (Tabular):** Analisis Data & Dashboard Interaktif (EDA, Feature Engineering, Streamlit)
+1.  **Project A (Telco Churn TCI):** Analisis Data & Dashboard Interaktif (EDA, Feature Engineering, Streamlit)
 2.  **Project B (ML App):** Model ML "Production-Ready" (Training Pipeline, Deployment, Explainability)
 3.  **Project C (NLP):** Analisis Teks & Klasifikasi (Tokenization, TF-IDF/Transformers)
 
