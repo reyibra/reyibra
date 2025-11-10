@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <a href="https://reyibra.github.io/" target="_blank">
+  <a href="mailto:reyibraa1@gmail.com?subject=Halo&body=Ini pesan dari Anda." target="_blank">Email Reyvanzi</a>
     <img src="https://img.shields.io/badge/Portofolio-Situs%20Web-blue?style=for-the-badge&logo=github&logoColor=white" alt="Portofolio"/>
   </a>
   <a href="https://www.linkedin.com/in/NAMA-ANDA" target="_blank">
