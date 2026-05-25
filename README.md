@@ -45,14 +45,6 @@ Ini adalah teknologi utama yang saya gunakan dan dalami untuk proyek-proyek saya
 <div align="center">
   
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=reyibra&show_icons=true&theme=radical" alt="Statistik GitHub Reyvanzi"/>
-  </p>
-  
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyibra&layout=compact&theme=radical" alt="Bahasa Teratas Reyvanzi"/>
-  </p>
-  
-  <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=reyibra&theme=dark" alt="GitHub Streak Reyvanzi"/>
   </p>
   
