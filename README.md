@@ -47,9 +47,5 @@ Ini adalah teknologi utama yang saya gunakan dan dalami untuk proyek-proyek saya
   <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=reyibra&theme=dark" alt="GitHub Streak Reyvanzi"/>
   </p>
-  
-  <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=reyibra&theme=radical&row=1" alt="GitHub Trophies Reyvanzi"/>
-  </p>
 
 </div>
