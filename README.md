@@ -260,7 +260,7 @@ Mindset    : learn deeply, build consistently, improve continuously
 
 <div align="center">
 
-## 🌈 Learning Roadmap
+## 🚩 Learning Roadmap
 
 </div>
 
